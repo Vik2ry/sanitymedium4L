@@ -30,6 +30,9 @@ build/Release
 node_modules
 jspm_packages
 
+sanitymedium/node_modules
+sanitymedium/dist
+
 # Optional npm cache directory
 .npm
 
