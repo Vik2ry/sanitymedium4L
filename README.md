@@ -66,6 +66,18 @@ This is a <a href="https://medium.com/">Medium</a> like platform with <a href="h
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+## Product questions
+
+### Who uses it?
+Writers who want to publish articles and readers who want to read and comment on them. Content is managed in Sanity, and this repo is the reader-facing site. It was built on the open-source [medium-like-app](https://github.com/taleshrocha/medium-like-app) template as a learning project.
+
+### What problem does it solve?
+It gives writers a simple, fast publishing site with post pages and reader comments, without building a content backend: Sanity stores the posts and the Next.js pages render them.
+
+### Why would someone pay for it?
+Not in this form. It is a learning project and has no payment features. Real publishing platforms charge for things this clone does not have: memberships, paid subscriptions, distribution and audience reach.
+
 <!-- GETTING STARTED -->
 
 ## Getting Started
